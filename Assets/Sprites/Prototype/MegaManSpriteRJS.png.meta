@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: f19db41879c592940bd79286d8312a67
+timeCreated: 1473429463
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaManSpriteRJS_0
+    21300002: MegaManSpriteRJS_1
+    21300004: MegaManSpriteRJS_2
+    21300006: MegaManSpriteRJS_3
+    21300008: MegaManSpriteRJS_4
+    21300010: MegaManSpriteRJS_5
+    21300012: MegaManSpriteRJS_6
+    21300014: MegaManSpriteRJS_7
+    21300016: MegaManSpriteRJS_8
+    21300018: MegaManSpriteRJS_9
+    21300020: MegaManSpriteRJS_10
+    21300022: MegaManSpriteRJS_11
+    21300024: MegaManSpriteRJS_12
+    21300026: MegaManSpriteRJS_13
+    21300028: MegaManSpriteRJS_14
+    21300030: MegaManSpriteRJS_15
+    21300032: MegaManSpriteRJS_16
+    21300034: MegaManSpriteRJS_17
+    21300036: MegaManSpriteRJS_18
+    21300038: MegaManSpriteRJS_19
+    21300040: MegaManSpriteRJS_20
+    21300042: MegaManSpriteRJS_21
+    21300044: MegaManSpriteRJS_22
+    21300046: MegaManSpriteRJS_23
+    21300048: MegaManSpriteRJS_24
+    21300050: MegaManSpriteRJS_25
+    21300052: MegaManSpriteRJS_26
+    21300054: MegaManSpriteRJS_27
+    21300056: MegaManSpriteRJS_28
+    21300058: MegaManSpriteRJS_29
+    21300060: MegaManSpriteRJS_30
+    21300062: MegaManSpriteRJS_31
+    21300064: MegaManSpriteRJS_32
+    21300066: MegaManSpriteRJS_33
+    21300068: MegaManSpriteRJS_34
+    21300070: MegaManSpriteRJS_35
+    21300072: MegaManSpriteRJS_36
+    21300074: MegaManSpriteRJS_37
+    21300076: MegaManSpriteRJS_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 93
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 92
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 92
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 93
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 93
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 93
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 92
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 93
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 93
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 93
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 112
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 109
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 53
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 52
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 52
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 53
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 53
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 53
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_21
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 52
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 53
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 53
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 53
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 9
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 5
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManSpriteRJS_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 9
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
