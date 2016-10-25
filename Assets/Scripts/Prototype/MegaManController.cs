@@ -123,6 +123,13 @@ public class MegaManController : MonoBehaviour {
             gameManager.RemoveHP(hp);
             StartCoroutine(InvincibleFor3Seconds());
         }
+        else if (other.gameObject.tag == "MonsterShot" && !invincible)
+        {
+            invincible = true;
+            RemoveHP(other.GetComponent<MonsterShot>().damage);
+            gameManager.RemoveHP(hp);
+            StartCoroutine(InvincibleFor3Seconds());
+        }
     }
 
     void OnTriggerExit2D(Collider2D other)
