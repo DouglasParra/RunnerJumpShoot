@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 41250539ad38a9641ae13db03593a263
-timeCreated: 1474477227
+timeCreated: 1477504466
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: spritesheet_items_0
+    21300002: spritesheet_items_1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,6 +62,19 @@ TextureImporter:
         y: 30
         width: 68
         height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_items_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 290
+        width: 64
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -48,6 +48,8 @@ public class WolfMovement : MonoBehaviour {
             {
                 if (Time.time + waitTime >= timeInitialMovement)
                 {
+                    timeInitialMovement = Time.time;
+                    canAttack = false;
                     StartCoroutine(WolfFinalMovement());
                 }
             }
@@ -85,9 +87,16 @@ public class WolfMovement : MonoBehaviour {
     {
         yield return new WaitForSeconds(.033f);
 
+        //Debug.Log(timeInitialMovement + " - " + Time.time);
+        if (Time.time > timeInitialMovement + .25f)
+        {
+            GetComponent<SpriteRenderer>().flipX = false;
+        }
+
         if (transform.position.x < player.transform.position.x + 20)
         {
-            transform.Translate(0.025f, 0, 0);
+            //transform.Translate(0.025f, 0, 0);
+            myRigidbody.velocity = new Vector2(15, myRigidbody.velocity.y);
         }
         else if (transform.position.x > player.transform.position.x + 20)
         {
